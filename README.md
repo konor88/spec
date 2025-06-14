@@ -1,8 +1,19 @@
-# Development Containers
+"We got our PCI certification last Monday, thanks in part to Docker Scout."
+Milen Dobrev
+Senior Engineering Manager
+"We plan to maintain our compliance status and keep using Docker Scout for the foreseeable future."
+Milen Dobrev
+Senior Engineering Manager
+"Getting that info about the layers we had to look into was quite helpful."
+Mlen Doorev
+Senior Engineering Manager
+"Once you add a new image, it's quick to get your first analysis."
+Milen Dobrev
+Senior Engineering Manager
 
 This repository is for the Development Container Specification. You can check out the spec on our website https://containers.dev/ too.
 
-A development container allows you to use a container as a full-featured development environment. It can be used to run an application, to separate tools, libraries, or runtimes needed for working with a codebase, and to aid in continuous integration and testing.
+A #development container allows you to use a container as a full-featured development environment. It can be used to run an application, to separate tools, libraries, or runtimes needed for working with a codebase, and to aid in continuous integration and testing.
 
 The Development Container Specification seeks to find ways to enrich existing formats with common development specific settings, tools, and configuration while still providing a simplified, un-orchestrated single container option – so that they can be used as coding environments or for continuous integration and testing.
 
